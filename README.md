@@ -20,30 +20,6 @@ You've been tasked with making an app for a pizza parlor. You'll need an object 
 
 ### 3. Check for the existence of a special Pizza
 * Using another appropriate Object method, check to see if the parlor offers a `banana` pizza. (Hint: Is there a method that can tell us whether or not an object contains a key of a certain name?)
-
-## Bonus
-
-Using a `for...in` loop, print out the full menu of pizza names with their prices. For example:
-
-```
-Supreme    $21
-Hawaiian   $18
-Veggie     $16
-```
-
-For an extra challenge, include the toppings under each pizza on their own line, like so:
-
-```
-Supreme    $21
-pepperoni, sausage, onion, olive
-
-Hawaiian   $18
-ham, pineapple, onion
-
-Veggie     $16
-pepper, onion, mushroom
-```
-
 ---
 
 ## Licensing
