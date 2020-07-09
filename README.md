@@ -1,6 +1,10 @@
 # JS Object Challenges
 
+
 ## Getting Started
+
+If this is assigned as a lab, you can skip this part! Just do it in a [repl.it](https://repl.it/)
+
 * Fork and clone this repository
 * Create a file in the `js` subdirectory named `pizza.js`
 * Write your solution in that file
